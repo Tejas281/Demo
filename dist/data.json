@@ -1,15 +1,16 @@
+  
 {
-    "comment": " To add your own project deatails",
+    "comment": " To add your own profile card, append a dictionary with your image_link, handle and message to the `profiles` array. You can use the following template dictionary to edit and append.",
     "template": {
-        "image_link": "<link-to-your-avatar>",
-        "handle": "<your-github-handle",
-        "message": "<Live-Demo-Link>",
-        "message1": "<Repository-Link>"
+       "image_link": "<link-to-your-avatar>",
+       "handle": "<your-github-handle",
+       "message": "<your-message-to-the-community>"
     },
-    "profiles": [{
-            "image_link": "https://github.com/Tejas281/STL/blob/master/Binary_Search.PNG?raw=true",
+    "profiles": [
+       {
+        "image_link": "https://github.com/Tejas281/STL/blob/master/Binary_Search.PNG?raw=true",
             "handle": "Binary Search",
-            "message1": "https://github.com/Tejas281/STL/blob/master/Binary_Search.cpp"
-        }
+            "message": "https://github.com/Tejas281/STL/blob/master/Binary_Search.cpp"
+       }
     ]
-}
+ }
