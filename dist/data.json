@@ -1,0 +1,15 @@
+{
+    "comment": " To add your own project deatails",
+    "template": {
+        "image_link": "<link-to-your-avatar>",
+        "handle": "<your-github-handle",
+        "message": "<Live-Demo-Link>",
+        "message1": "<Repository-Link>"
+    },
+    "profiles": [{
+            "image_link": "https://github.com/Tejas281/STL/blob/master/Binary_Search.PNG?raw=true",
+            "handle": "Binary Search",
+            "message1": "https://github.com/Tejas281/STL/blob/master/Binary_Search.cpp"
+        }
+    ]
+}
